@@ -53,7 +53,7 @@ window.addEventListener('resize', showButton);
                         className='nav-links' 
                         onClick={closeMobileMenu}
                         >
-                            Services
+                            Github
                         </Link>
                     </li>
                     <li className='nav-item'>
@@ -62,7 +62,7 @@ window.addEventListener('resize', showButton);
                         className='nav-links' 
                         onClick={closeMobileMenu}
                         >
-                            Products
+                            Email
                         </Link>
                     </li>
                     <li className='nav-item'>
